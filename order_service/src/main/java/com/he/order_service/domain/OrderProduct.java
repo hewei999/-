@@ -5,7 +5,7 @@ import java.util.Date;
 
 /**
  * @author hewei
- * @date 2020/6/14
+ * @date 2020-06-14
  */
 
 public class OrderProduct implements Serializable
